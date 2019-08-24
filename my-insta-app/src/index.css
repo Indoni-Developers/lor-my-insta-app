@@ -16,7 +16,6 @@ code {
   height: 300px;
   width: 300px;
   padding: 12px;
-
 }
 
 .ProfileImage {
@@ -25,4 +24,16 @@ code {
   height: 250px;
   background-size: cover;
   border-radius: 50%;
+}
+
+.PostItemContainer{
+  padding: 6px;
+  height: 400px;
+  width:400px;
+}
+
+.PostItem{
+  height: 360px;
+  width: 360px;
+  background-size: cover;
 }
